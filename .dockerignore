@@ -1,0 +1,7 @@
+mysql/*
+logs/*
+.git/*
+.gitignore
+*.md
+.env
+node_modules
